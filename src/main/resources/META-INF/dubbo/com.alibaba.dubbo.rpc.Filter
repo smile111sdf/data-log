@@ -1,0 +1,1 @@
+dubbo.context.filter=com.guoquan.store.operation.log.filter.OpeDubboLogFilter
